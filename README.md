@@ -1,19 +1,11 @@
 # Hi, I'm Ahmed Adam 👋
 
-## Full Stack Developer
+## Full Stack Developer | Angular & .NET
 
-I build scalable web applications using modern frontend and backend technologies.
+Building scalable web applications, APIs, and enterprise solutions using modern frontend and backend technologies.
 
 ### Tech Stack
 
-- Angular
-- TypeScript
-- .NET / ASP.NET Core
-- PostgreSQL
-- SQL Server
-- Tailwind CSS
-- REST APIs
-- Entity Framework Core
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
 ![Vue](https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=vue)
 ![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=dotnet)
@@ -24,16 +16,15 @@ I build scalable web applications using modern frontend and backend technologies
 
 ## Featured Projects
 
-### 🛒 E-Commerce Platform
-Full-stack e-commerce application built with Angular 19 and .NET 9.
+### 🛒 E-Commerce Platform — Angular 19 + .NET 9
 
 Features:
-- Authentication & Authorization
-- Product Management
-- Shopping Cart
-- Orders & Reviews
-- Image Uploads
-- Responsive UI
+- JWT Authentication
+- Product & Category Management
+- Shopping Cart & Orders
+- Image Upload Service
+- Clean Architecture
+- Responsive UI with Tailwind CSS
 
 ### 📦 Asset Management System
 Enterprise-style application for managing assets, dashboards, and workflows.
