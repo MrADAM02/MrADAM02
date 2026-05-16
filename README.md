@@ -110,15 +110,6 @@ I build scalable, high-performance web applications and APIs using modern fronte
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrADAM02&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrADAM02&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -130,15 +121,10 @@ I build scalable, high-performance web applications and APIs using modern fronte
     <img src="https://img.shields.io/badge/GitHub-MrADAM02-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:ahmedadam.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ahmedadam.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-ahmadon212@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ahmed-adam-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-ahmed--adam--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-[ahmed--adam--dev](https://www.linkedin.com/in/ahmed-mahmoud-822699193/)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
-
-<p align="center">
-  <em>💬 "Code is not just what I write, it's how I solve problems and create value."</em>
-</p>
