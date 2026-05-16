@@ -124,7 +124,7 @@ I build scalable, high-performance web applications and APIs using modern fronte
     <img src="https://img.shields.io/badge/Email-ahmadon212@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/ahmed-adam-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-[ahmed--adam--dev](https://www.linkedin.com/in/ahmed-mahmoud-822699193/)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/ahmed-mahmoud-822699193/?skipRedirect=true-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
