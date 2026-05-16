@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Ahmed Adam 👋
 
-<!--
-**MrADAM02/MrADAM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer
 
-Here are some ideas to get you started:
+I build scalable web applications using modern frontend and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- Angular
+- TypeScript
+- .NET / ASP.NET Core
+- PostgreSQL
+- SQL Server
+- Tailwind CSS
+- REST APIs
+- Entity Framework Core
+
+---
+
+## Featured Projects
+
+### 🛒 E-Commerce Platform
+Full-stack e-commerce application built with Angular 19 and .NET 9.
+
+Features:
+- Authentication & Authorization
+- Product Management
+- Shopping Cart
+- Orders & Reviews
+- Image Uploads
+- Responsive UI
+
+### 📦 Asset Management System
+Enterprise-style application for managing assets, dashboards, and workflows.
+
+### 📊 Admin Dashboards
+Modern responsive dashboards with charts, tables, filtering, and analytics.
+
+---
+
+## Currently Working On
+
+- Improving scalable frontend architecture
+- Building enterprise-level APIs
+- Advanced Angular patterns
+- Clean Architecture in .NET
+
+---
+
+## Connect With Me
+
+- Portfolio: https://ahmedadam.netlify.app
+- GitHub: https://github.com/MrADAM02
